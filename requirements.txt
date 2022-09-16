@@ -28,7 +28,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 language-selector==0.1
 lxml==4.4.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 netifaces==0.10.4
 oauthlib==2.0.6
